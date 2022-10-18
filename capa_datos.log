@@ -1,0 +1,114 @@
+06:27:56 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+06:27:56 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x104bc5fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:27:56 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x104bc6110; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:28:53 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:28:53 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102c9dfc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:28:53 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x102c836a0; closed: 0>
+07:28:53 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:28:53 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:28:53 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:29:55 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:29:55 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1026d9fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:29:55 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x1026bf010; closed: 0>
+07:29:55 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:29:55 AM: ERROR [Cursor.py:18] Hubo un error, se hará rollback.. <class 'AttributeError'> 'User' object has no attribute 'user' <traceback object at 0x103479900>
+07:29:55 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:32:06 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:32:06 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x104e39fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:32:06 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x104e1f6a0; closed: 0>
+07:32:06 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:32:06 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:32:06 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:32:28 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x104e39fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:32:28 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x104e1f6a0; closed: 0>
+07:32:28 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:32:28 AM: ERROR [Cursor.py:18] Hubo un error, se hará rollback.. <class 'AttributeError'> 'User' object has no attribute 'user' <traceback object at 0x105f54280>
+07:32:28 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:33:51 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:33:51 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102a31fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:33:51 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x102a176a0; closed: 0>
+07:33:51 AM: DEBUG [UserDAO.py:22] Usuario ingresado correctamente
+07:33:51 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:33:51 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:33:51 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:33:59 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102a31fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:33:59 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x102a176a0; closed: 0>
+07:33:59 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:33:59 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:33:59 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:34:12 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:34:12 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x100f61fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:34:12 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x100f47010; closed: 0>
+07:34:12 AM: DEBUG [UserDAO.py:22] Usuario ingresado correctamente
+07:34:12 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:34:12 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:34:12 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:34:17 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x100f61fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:34:17 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x100f47010; closed: 0>
+07:34:17 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:34:17 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:34:17 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:34:32 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x100f61fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:34:32 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x100f47010; closed: 0>
+07:34:32 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:34:32 AM: ERROR [Cursor.py:18] Hubo un error, se hará rollback.. <class 'IndexError'> tuple index out of range <traceback object at 0x101c5e300>
+07:34:32 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:35:00 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:35:00 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1047e1fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:35:00 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x1047c76a0; closed: 0>
+07:35:00 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:35:00 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:35:00 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:35:12 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1047e1fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:35:12 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x1047c76a0; closed: 0>
+07:35:12 AM: DEBUG [UserDAO.py:30] Usuario actualizado correctamente 2
+07:35:12 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:35:12 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:35:12 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:35:16 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1047e1fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:35:16 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x1047c76a0; closed: 0>
+07:35:16 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:35:16 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:35:16 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:35:22 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1047e1fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:35:22 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x1047c76a0; closed: 0>
+07:35:22 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:35:22 AM: ERROR [Cursor.py:18] Hubo un error, se hará rollback.. <class 'TypeError'> 'int' object does not support indexing <traceback object at 0x1058d0940>
+07:35:22 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:35:35 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:35:35 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1049b5fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:35:35 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x10499b6a0; closed: 0>
+07:35:35 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:35:35 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:35:35 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:35:39 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x1049b5fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:35:39 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x10499b6a0; closed: 0>
+07:35:39 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:35:39 AM: ERROR [Cursor.py:18] Hubo un error, se hará rollback.. <class 'psycopg2.errors.SyntaxError'> syntax error at or near "user"
+LINE 1: DELETE FROM user WHERE id_user = 2
+                    ^
+ <traceback object at 0x105b546c0>
+07:35:39 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:36:12 AM: DEBUG [Connection.py:26] Se ha obtenido el pool de conexiones correctamente.
+07:36:12 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102689fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:36:12 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x10266f6a0; closed: 0>
+07:36:12 AM: DEBUG [UserDAO.py:37] Usuario eliminado correctamente 2
+07:36:12 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:36:12 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:36:12 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:36:16 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102689fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:36:16 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x10266f6a0; closed: 0>
+07:36:16 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:36:16 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:36:16 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:36:21 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102689fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:36:21 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x10266f6a0; closed: 0>
+07:36:21 AM: DEBUG [UserDAO.py:22] Usuario ingresado correctamente
+07:36:21 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:36:21 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:36:21 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
+07:36:22 AM: DEBUG [Connection.py:36] Se ha obtenido una conexión: <connection object at 0x102689fc0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:36:22 AM: DEBUG [Cursor.py:12] Inicializando cursor.. <cursor object at 0x10266f6a0; closed: 0>
+07:36:22 AM: DEBUG [Cursor.py:16] Se esta cerrando el cursor...
+07:36:22 AM: DEBUG [Cursor.py:21] Se hara commit, todo correcto :)
+07:36:22 AM: DEBUG [Connection.py:45] Se ha devuelto correctamente la conexión al pool :)
